@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "Web\Web.csproj", "{DA340760-B0A0-44E4-A7B0-7992B4F670F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetStandard", "NetStandard\NetStandard.csproj", "{DAF9059D-C72F-4CB9-BA78-6EE5B5F54DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA340760-B0A0-44E4-A7B0-7992B4F670F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA340760-B0A0-44E4-A7B0-7992B4F670F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA340760-B0A0-44E4-A7B0-7992B4F670F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA340760-B0A0-44E4-A7B0-7992B4F670F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF9059D-C72F-4CB9-BA78-6EE5B5F54DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF9059D-C72F-4CB9-BA78-6EE5B5F54DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF9059D-C72F-4CB9-BA78-6EE5B5F54DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF9059D-C72F-4CB9-BA78-6EE5B5F54DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3889C394-4032-4E88-B861-77F539BAEFBD}
+	EndGlobalSection
+EndGlobal

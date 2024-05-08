@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <!--<PackageReference Include="zkemkeeper" Version="1.0.2" />-->
+	  <PackageReference Include="zkemkeeper-official-sdk" Version="6.3.1.45" />
+  </ItemGroup>
+</Project>
